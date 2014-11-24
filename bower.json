@@ -1,0 +1,24 @@
+{
+  "name": "uxrocket.jqueryui-lite",
+  "version": "0.1.0",
+  "homepage": "https://github.com/uxrocket/uxrocket.jqueryui-lite",
+  "authors": [
+    "Bilal Çınarlı <bcinarli@gmail.com>"
+  ],
+  "description": "Essential jQueryUI components for UX Rocket plugins",
+  "main": "lib/uxrocket.jqueryui.js",
+  "keywords": [
+    "uxrocket",
+    "jqueryui",
+    "autocomplete",
+    "calendar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
