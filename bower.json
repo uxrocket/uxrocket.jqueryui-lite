@@ -1,6 +1,6 @@
 {
   "name": "uxrocket.jqueryui-lite",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/uxrocket/uxrocket.jqueryui-lite",
   "authors": [
     "Bilal Çınarlı <bcinarli@gmail.com>"
@@ -10,7 +10,6 @@
   "keywords": [
     "uxrocket",
     "jqueryui",
-    "autocomplete",
     "calendar"
   ],
   "license": "MIT",
